@@ -7,4 +7,4 @@ to run this project
 
 
 
-note: This app is currently not working due to json Api issue.
+
